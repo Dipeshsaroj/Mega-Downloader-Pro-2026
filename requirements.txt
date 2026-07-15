@@ -1,0 +1,7 @@
+numpy
+pynput
+mouse
+keyboard
+mss
+pynput
+requests
